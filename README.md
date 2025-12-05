@@ -19,7 +19,7 @@
 ## 👀 Profile Views
 
 <div align="center">
-  <b>Visitors since badge added:</b><br/>
+  <b>Latest Visitor Count:</b><br/>
   <img src="https://komarev.com/ghpvc/?username=firas-saidi&color=green" alt="Profile Views" />
 </div>
 
