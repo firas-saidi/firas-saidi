@@ -16,8 +16,13 @@
 [![](https://visitcount.itsvg.in/api?id=firas-saidi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-# 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=firas-saidi&color=green)
+## 👀 Profile Views
+
+<div align="center">
+  <b>Visitors since badge added:</b><br/>
+  <img src="https://komarev.com/ghpvc/?username=firas-saidi&color=green" alt="Profile Views" />
+</div>
+
 
 
 
